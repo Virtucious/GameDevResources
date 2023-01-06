@@ -25,5 +25,5 @@ Art
   <li><a href = "https://game-icons.net/"> Game Icons </a></li>
   <li><a href = "https://www.textures.com/"> Textures </a></li>
   <li><a href = "https://poly.pizza/"> Poly pizza </a></li>
-  <li><a href = "https://kaylousberg.itch.io/">Kaylous Berg Itch.io </a><li>
+  <li><a href = "https://kaylousberg.itch.io/">Kaylous Berg Itch.io </a></li>
 </ul>
