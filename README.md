@@ -5,3 +5,13 @@
 <body>
 Hi fellow game developer! This is me, Virtucious, a fellow game developer like you! I am a University student and I have been doing game development for few years now and connecting with other game developers is something that I really like and promote others to do so. I will try to update this repo as much as I can and if any of you have any suggestions, let me know!
 </body>
+
+<h1>
+CONTENT
+</h1>
+<ul>
+  <li>Art</li>
+  <li>Fonts</li>
+  <li>Music/Sounds</li>
+</ul>
+
