@@ -27,3 +27,12 @@ Art
   <li><a href = "https://poly.pizza/"> Poly pizza </a></li>
   <li><a href = "https://kaylousberg.itch.io/">Kaylous Berg Itch.io </a></li>
 </ul>
+
+<h2>
+Fonts
+</h2>
+
+<ul>
+  <li><a href = "https://www.fontsquirrel.com/">Font Squirrel</a></li>
+  <li><a href = "https://fonts.google.com/">Google Fonts</a></li>
+</ul>
