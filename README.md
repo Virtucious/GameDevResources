@@ -54,5 +54,5 @@ Learning C#
 <ul>
   <li><a href = "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/">C# Documentation</a></li>
   <li><a href = "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions">C# Coding Conventions</a></li>
-  <li><a href = "https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR"Brackeys Tutorials for C#</a></li>
+  <li><a href = "https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR">Brackeys Tutorials for C#</a></li>
 </ul>
