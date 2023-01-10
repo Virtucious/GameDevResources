@@ -13,6 +13,8 @@ CONTENT
   <li>Art</li>
   <li>Fonts</li>
   <li>Music/Sounds</li>
+  <li>C# Resources</li>
+  <li>Unity Repositories</li>
 </ul>
 
 <h2>
@@ -55,4 +57,15 @@ Learning C#
   <li><a href = "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/">C# Documentation</a></li>
   <li><a href = "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions">C# Coding Conventions</a></li>
   <li><a href = "https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR">Brackeys Tutorials for C#</a></li>
+</ul>
+
+<h2>
+Unity Repositories
+</h2>
+<ul>
+  <li><a href = "https://github.com/Unity-Technologies">Unity Technologies</a></li>
+  <li><a href = "https://bitbucket.org/Taugeshtu/clutter/src/master/">Clutter (Collection of scraps for RUPA (Rapid Unscheduled Prototype Assembly) - extension methods, handy grabs around, debug drawings.)</a></li>
+  <li><a href = "https://github.com/thefuntastic/Unity3d-Finite-State-Machine">Simple finite state machine</a></li>
+  <li><a href = "https://github.com/keijiro/Klak">Klak(Collection of scripts for Creative Coding in Unity)</a></li>
+  <li><a href = "https://github.com/zalo/MathUtilities">Math Utilities</a></li>
 </ul>
