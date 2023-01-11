@@ -69,3 +69,19 @@ Unity Repositories
   <li><a href = "https://github.com/keijiro/Klak">Klak(Collection of scripts for Creative Coding in Unity)</a></li>
   <li><a href = "https://github.com/zalo/MathUtilities">Math Utilities</a></li>
 </ul>
+
+<h2>
+Technical Art
+</h2>
+<ul>
+  <li><a href = "https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d">Tech Art Learning Resources</a></li>
+  <li><a href = "https://simonschreibt.de/gat/tech-art-course/">Tech Art Course</a></li>
+  <li><a href = "https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1">Proc Gen / HyperDec: Part 1</a> | <a href = "https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2">Part 2</a></li>
+</ul>
+
+<h2>
+Miscellaneous
+</h2>
+<ul>
+  <li><a href = "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/">Making of Crash Bandicoot</a></li>
+</ul>
