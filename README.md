@@ -80,6 +80,19 @@ Technical Art
 </ul>
 
 <h2>
+  Shaders
+</h2>
+<ul>
+  <li><a href = "https://www.youtube.com/watch?v=kfM-yu0iQBk&list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z">Freya Holmer's Shaders Tutorials</a></li>
+  <li><a href = "https://thebookofshaders.com/00/">The Book Of Shaders</a></li>
+  <li><a href = "https://catlikecoding.com/unity/tutorials/">Catlike Coding</a></li>
+  <li><a href = "https://www.shadertoy.com/">ShaderToy</a></li>
+  <li><a href = "https://renderdoc.org/">Render Doc</a></li>
+  <li><a href = "https://www.cyanilux.com/tutorials/intro-to-shader-graph/">Cyanilux</a></li>
+  <li><a href = "https://halisavakis.com/category/shaderquest/">Shaderquest</a></li>
+</ul>
+
+<h2>
 Miscellaneous
 </h2>
 <ul>
