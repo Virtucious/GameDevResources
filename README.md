@@ -49,7 +49,9 @@ Fonts
   <li><a href = "https://freemusicarchive.org/home">Free Music Archive</a></li>
   <li><a href = "https://www.kenney.nl/assets?q=audio">Kenny's Audio</a></li>
 </ul>
-
+<h1>
+  Learning Materials
+</h1>
 <h2>
 Learning C#
 </h2>
@@ -90,6 +92,17 @@ Technical Art
   <li><a href = "https://renderdoc.org/">Render Doc</a></li>
   <li><a href = "https://www.cyanilux.com/tutorials/intro-to-shader-graph/">Cyanilux</a></li>
   <li><a href = "https://halisavakis.com/category/shaderquest/">Shaderquest</a></li>
+</ul>
+
+<h2>
+  VFX
+</h2>
+<ul>
+  <li><a href = "https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415">Getting Started in Real Time VFX</a></li>
+  <li><a href = "https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv">VFX Talks Playlist</a></li>
+  <li><a href = "https://chluaid.gumroad.com/l/bcafx">BiteyCastle Academy 2DFX Animation Course</a></li>
+  <li><a href = "https://www.youtube.com/watch?v=Tsv8UGqDibc&list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W&index=5">Houdini Basics</a></li>
+  <li><a href = "https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/">Unity VFX Tutorial</a></li>
 </ul>
 
 <h2>
