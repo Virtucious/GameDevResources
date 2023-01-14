@@ -68,6 +68,7 @@ Unity Repositories
   <li><a href = "https://github.com/Unity-Technologies">Unity Technologies</a></li>
   <li><a href = "https://bitbucket.org/Taugeshtu/clutter/src/master/">Clutter (Collection of scraps for RUPA (Rapid Unscheduled Prototype Assembly) - extension methods, handy grabs around, debug drawings.)</a></li>
   <li><a href = "https://github.com/thefuntastic/Unity3d-Finite-State-Machine">Simple finite state machine</a></li>
+  <li><a href = "https://github.com/michidk/Unity-Script-Collection">Unity Script Collection</a></li>
   <li><a href = "https://github.com/keijiro/Klak">Klak(Collection of scripts for Creative Coding in Unity)</a></li>
   <li><a href = "https://github.com/zalo/MathUtilities">Math Utilities</a></li>
 </ul>
