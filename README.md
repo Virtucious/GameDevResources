@@ -107,6 +107,14 @@ Technical Art
 </ul>
 
 <h2>
+  Game Networking Resources
+</h2>
+<ul>
+  <li><a href = "https://web.archive.org/web/20210415231950/https://heroiclabs.com/docs/expert-tcp-udp/">Choosing TCP or UDP</a></li>
+  <li><a href = "https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience">Halo Infinite's Online Experience</a></li>
+  <li><a href = "https://vercidium.com/blog/lag-compensation/">Lag Compensation: Fair play for all pings</a></li>
+
+<h2>
 Miscellaneous
 </h2>
 <ul>
