@@ -113,6 +113,14 @@ Technical Art
   <li><a href = "https://web.archive.org/web/20210415231950/https://heroiclabs.com/docs/expert-tcp-udp/">Choosing TCP or UDP</a></li>
   <li><a href = "https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience">Halo Infinite's Online Experience</a></li>
   <li><a href = "https://vercidium.com/blog/lag-compensation/">Lag Compensation: Fair play for all pings</a></li>
+  <li><a href = "https://web.archive.org/web/20210419133753/https://gameserverarchitecture.com/">Game Server architecture</a></li>
+  <li><a href = "http://ithare.com/tcp-peculiarities-for-games-part-1/">TCP Peculiarities for games Part1</a></li>
+  <li><a href = "http://ithare.com/tcp-peculiarities-as-applied-to-games-part-ii/">TCP Peculiarities for games Part2</a></li>
+  <li><a href = "https://www.pcgamer.com/uk/netcode-explained/">Netcode Explained</a><li>
+  <li><a href = "https://longwelwind.net/blog/networking-turn-based-game/">Networking of a turn based game</a></li>
+  <li><a href = "https://technology.riotgames.com/news/peeking-valorants-netcode">Peek of Valorant's netcode</a></li>
+  
+</ul>
 
 <h2>
 Miscellaneous
