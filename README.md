@@ -129,3 +129,4 @@ Miscellaneous
   <li><a href = "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/">Making of Crash Bandicoot</a></li>
   <li><a href = "https://gamedevbeginner.com">Game Dev Beginner website</a></li>
 </ul>
+*Add a gdc guide
