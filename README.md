@@ -119,8 +119,9 @@ Technical Art
   <li><a href = "https://www.pcgamer.com/uk/netcode-explained/">Netcode Explained</a><li>
   <li><a href = "https://longwelwind.net/blog/networking-turn-based-game/">Networking of a turn based game</a></li>
   <li><a href = "https://technology.riotgames.com/news/peeking-valorants-netcode">Peek of Valorant's netcode</a></li>
-  
+  <li><a href = "https://technology.riotgames.com/news/valorants-128-tick-servers">Valorant's 128-Ticks servers
 </ul>
+
 
 <h2>
 Miscellaneous
@@ -129,4 +130,4 @@ Miscellaneous
   <li><a href = "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/">Making of Crash Bandicoot</a></li>
   <li><a href = "https://gamedevbeginner.com">Game Dev Beginner website</a></li>
 </ul>
-*Add a gdc guide
+
