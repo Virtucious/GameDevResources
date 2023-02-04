@@ -116,7 +116,7 @@ Technical Art
   <li><a href = "https://web.archive.org/web/20210419133753/https://gameserverarchitecture.com/">Game Server architecture</a></li>
   <li><a href = "http://ithare.com/tcp-peculiarities-for-games-part-1/">TCP Peculiarities for games Part1</a></li>
   <li><a href = "http://ithare.com/tcp-peculiarities-as-applied-to-games-part-ii/">TCP Peculiarities for games Part2</a></li>
-  <li><a href = "https://www.pcgamer.com/uk/netcode-explained/">Netcode Explained</a><li>
+  <li><a href = "https://www.pcgamer.com/uk/netcode-explained/">Netcode Explained</a></li>
   <li><a href = "https://longwelwind.net/blog/networking-turn-based-game/">Networking of a turn based game</a></li>
   <li><a href = "https://technology.riotgames.com/news/peeking-valorants-netcode">Peek of Valorant's netcode</a></li>
   <li><a href = "https://technology.riotgames.com/news/valorants-128-tick-servers">Valorant's 128-Ticks servers
